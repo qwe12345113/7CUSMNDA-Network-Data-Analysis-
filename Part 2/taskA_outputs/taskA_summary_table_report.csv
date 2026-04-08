@@ -1,0 +1,13 @@
+Metric,Value
+Study area (km²),1.0
+Total nodes,211
+Total edges,359
+Total intersections,179
+Total edge length (km),21.834
+Spatial diameter (m),2930.01
+Average street length (m),60.82
+Node density (per km²),211.0
+Intersection density (per km²),179.0
+Edge density (m per km²),21833.71
+Average circuitry,1.6071
+Topologically planar,No

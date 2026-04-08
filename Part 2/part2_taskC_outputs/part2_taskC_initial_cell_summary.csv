@@ -1,0 +1,5 @@
+cell_id,n_nodes,n_edges,total_edge_length_m,total_edge_length_km,is_connected,n_components,route_length_km,abs_error_km,success_within_tolerance
+1,62,83,5207.68488364376,5.20768488364376,1,1,,,0
+2,32,43,3673.1920388745057,3.6731920388745056,1,1,,,0
+3,103,142,10080.504231078025,10.080504231078024,1,1,,,0
+4,14,16,1581.658588739518,1.581658588739518,1,1,,,0

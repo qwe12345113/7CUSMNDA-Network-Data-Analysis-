@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "part2_taskC_redesign_seeds",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::27700" } },
+"features": [
+{ "type": "Feature", "properties": { "node": 26661448, "x": 430898.12085717503, "y": 433595.09170297103, "degree": 2, "dist_to_high_risk_m": 106.03552863670714, "seed_score": 0.77802526937916183, "seed_id": 1 }, "geometry": { "type": "Point", "coordinates": [ 430898.120857175032143, 433595.09170297102537 ] } },
+{ "type": "Feature", "properties": { "node": 342647082, "x": 429967.10756257025, "y": 434129.66368244588, "degree": 3, "dist_to_high_risk_m": 38.412607678188614, "seed_score": 0.38420737884662665, "seed_id": 2 }, "geometry": { "type": "Point", "coordinates": [ 429967.107562570250593, 434129.663682445883751 ] } },
+{ "type": "Feature", "properties": { "node": 52167573, "x": 430566.6154558087, "y": 434035.59511396906, "degree": 4, "dist_to_high_risk_m": 75.531196587943313, "seed_score": 0.69718274946241432, "seed_id": 3 }, "geometry": { "type": "Point", "coordinates": [ 430566.615455808700062, 434035.59511396905873 ] } },
+{ "type": "Feature", "properties": { "node": 340480305, "x": 429997.68175695004, "y": 433299.75521235715, "degree": 3, "dist_to_high_risk_m": 7.560570082224551, "seed_score": 0.17601855005328437, "seed_id": 4 }, "geometry": { "type": "Point", "coordinates": [ 429997.681756950041745, 433299.755212357151322 ] } }
+]
+}
