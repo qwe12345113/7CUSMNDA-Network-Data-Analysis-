@@ -1,0 +1,4 @@
+,rows_after_cleaning,n_users,n_edges,n_pages,n_threads,n_page_thread_groups,n_components,n_isolates,largest_component_size,largest_component_ratio,density,avg_degree
+BOT_REQUESTS,2981.0,552.0,2424.0,108.0,1113.0,1126.0,29.0,25.0,519.0,0.94,0.01594,8.783
+PROPERTIES,13398.0,1942.0,9198.0,2544.0,5785.0,6681.0,304.0,285.0,1618.0,0.833,0.00488,9.473
+PROJECT_CHAT,48551.0,4136.0,40255.0,131.0,14916.0,15412.0,203.0,195.0,3924.0,0.949,0.00471,19.466

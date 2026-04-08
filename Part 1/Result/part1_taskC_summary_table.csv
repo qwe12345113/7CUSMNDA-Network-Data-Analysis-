@@ -1,0 +1,4 @@
+dataset,suspected_user_1,suspected_user_2,single_non_propagation_plausibility,single_mean_top_risk,dual_non_propagation_plausibility,dual_mean_top_risk
+BOT_REQUESTS,Pasleim,Jura1,Low,0.5015258678833644,High,0.3736781053906246
+PROPERTIES,Jura1,Infovarius,Low,0.781997650829761,Low,0.7705084591276313
+PROJECT_CHAT,Jura1,ChristianKl,Low,0.686960783872623,Low,0.6465750635929892
